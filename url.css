@@ -90,7 +90,7 @@ img{
 
 @media (max-width: 768px) {
     .form-box input{
-        width: 20px;
+        width: 100px;
     }
     .header {
       height:100vh;
