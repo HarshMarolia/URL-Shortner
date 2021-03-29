@@ -89,8 +89,8 @@ img{
 }
 
 @media (max-width: 768px) {
-    input{
-        width:10px;
+    .form-box input{
+        width: 20px;
     }
     .header {
       height:100vh;
