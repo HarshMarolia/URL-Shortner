@@ -11,3 +11,6 @@ Open this application in your browser. Then, enter the URL in the input box and 
 
 https://harshmarolia.github.io/URL-Shortner/
 <br><br>
+![Screenshot (57)](https://user-images.githubusercontent.com/53485461/113330853-d5d8ad00-933c-11eb-96f8-dfbd80ff43cb.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/53485461/113330869-da9d6100-933c-11eb-88e0-49eae0f07433.png)
+
